@@ -578,12 +578,12 @@ body {
 }
 
 .about-text {
-    top: 60px; /* Adjust as needed */
+    top: 20px; /* Adjust as needed */
     left: 20px; /* Adjust as needed */
 }
 
 .contact-text {
-    top: 50px; /* Adjust as needed */
+    top: 20px; /* Adjust as needed */
     right: 20px; /* Adjust as needed */
 }
 
